@@ -1,6 +1,6 @@
 {
   "name": "bhiv",
-  "description": "Document Object Model components for NoFlo",
+  "description": "Bhiv components for NoFlo",
   "author": "Nicolas Pelletier <npelletier@wivora.fr>",
   "repo": "bhiv/noflo-bhiv",
   "version": "0.0.1",
@@ -18,7 +18,7 @@
   "noflo": {
     "icon": "bhiv",
     "components": {
-      "test": "components/test.js",
+      "test": "components/test.js"
     }
   }
 }
